@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pintukumar123-11
+- 👋 Hi, I’m @pintukumar
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on stock market development.
