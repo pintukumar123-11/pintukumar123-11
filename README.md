@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pintukumar
 - 👀 I’m interested in development.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on stock market development.
 - 📫 How to reach me mail me.
 
